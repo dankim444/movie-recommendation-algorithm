@@ -14,10 +14,10 @@
 5. Similarity-Based Recommendations: After receiving a movie title from the user, the system finds and displays similar movies based on defined criteria.
 
 ##Dependencies
-- Pandas
-- Scikit-learn
-- IPyWidgets
-- NumPy
+- Pandas (pip install pandas)
+- Scikit-learn (pip install scikit-learn)
+- IPyWidgets (pip install ipywidgets)
+- NumPy (pip install numpy)
 
 ##Usage
 - To run the system, execute the script in a Jupyter Notebook environment. Ensure you have the required dataset (MovieLens) placed correctly.
