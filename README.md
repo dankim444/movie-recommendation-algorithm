@@ -20,4 +20,4 @@
 - NumPy
 
 ##Usage
-To run the system, execute the script in a Jupyter Notebook environment. Ensure you have the required dataset (MovieLens) placed correctly.
+- To run the system, execute the script in a Jupyter Notebook environment. Ensure you have the required dataset (MovieLens) placed correctly.
